@@ -11,3 +11,4 @@ Assumptions:
 
 Over time we find the result converges nicely on 26.49%.
 
+![results](results.png)
